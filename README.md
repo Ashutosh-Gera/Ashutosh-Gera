@@ -2,7 +2,7 @@
 ---
 - 👋 Hi, I’m <b>Ashutosh Gera</b>
 - 👀 I’m interested in Competitive programming, app development & exploring more :)
-- 🌱 I’m currently learning DSA in C & C++
+- 🌱 I’m currently learning OOP in Java and Operating Systems
 - 💞️ I’m looking to collaborate on various open source development projects
 - 📫 How to reach me: Discord - Ashu#6888; Twitter - @ashu_gera19; instagram - @ashutoshgera
 </p>
