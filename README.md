@@ -24,6 +24,8 @@ tokyonight also a good theme-
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh-Gera&theme=transparent)](https://git.io/streak-stats)
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <p align="center"> 
   Visitors(Since May 29, 2023):<br>
   <img src="https://profile-counter.glitch.me/Ashutosh-Gera/count.svg" />
